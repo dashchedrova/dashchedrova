@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Дарья Щедрова, я инженер по тестированию, он же QA Engineer. 
+
+Моё резюме можно посмотреть <a href ="https://hh.ru/resume/66101d52ff0b05a0b10039ed1f783350663145">тут<a>.
+
+Владею инструментами:
 
 <!--
 **dashchedrova/dashchedrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
