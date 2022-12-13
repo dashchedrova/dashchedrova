@@ -24,8 +24,8 @@
 <li><a href="https://github.com/dashchedrova/checklist">Чек-листы</a></li>
 <li><a href="https://github.com/dashchedrova/test-cases">Тест-сьюты и тест-кейсы</a></li>
 <li><a href="https://github.com/dashchedrova/bug-reports">Баг-репорты</a></li>
-<li><a href="https://github.com/dashchedrova/SQL">SQL Queries</a></li>
-<li><a href="https://github.com/dashchedrova/postman">Postman </a></li>
+<li><a href="https://github.com/dashchedrova/testing_API">Тестирование API </a></li>
+<li><a href="https://github.com/dashchedrova/SQL">SQL</a></li>
 </ul>
 
 ### Ссылки на мои соцсети:
