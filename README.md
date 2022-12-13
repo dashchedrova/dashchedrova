@@ -31,4 +31,4 @@
 ### Ссылки на мои соцсети:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000??style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dariashchedrova/)
 [![HABR](https://img.shields.io/badge/HABR-000000??style=for-the-badge&logo=HABR)](https://career.habr.com/da_shchedrova)
-[![MAIL](https://img.shields.io/badge/MAIL-000000??style=for-the-badge&logo=appveyor)](<da.shchedrova@yandex.ru>)
+![<da.shchedrova@yandex.ru> MAIL](https://img.shields.io/badge/MAIL-000000??style=for-the-badge&logo=appveyor)
