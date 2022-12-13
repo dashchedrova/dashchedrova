@@ -19,6 +19,15 @@
 ![FIDDLER](https://img.shields.io/badge/FIDDLER-000000??style=for-the-badge&logo=appveyor)
 ![SQL](https://img.shields.io/badge/SQL-000000??style=for-the-badge&logo=mySQL)
 
+### Образцы тестовой документации
+<ul dir="auto">
+<li><a href="https://github.com/dashchedrova/checklist">Чек-листы</a></li>
+<li><a href="https://github.com/dashchedrova/test-cases">Тест-сьюты и тест-кейсы</a></li>
+<li><a href="https://github.com/dashchedrova/bug-reports">Баг-репорты</a></li>
+<li><a href="https://github.com/dashchedrova/SQL">SQL Queries</a></li>
+<li><a href="https://github.com/dashchedrova/postman">Postman </a></li>
+</ul>
+
 ### Ссылки на мои соцсети:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000??style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dariashchedrova/)
 [![HABR](https://img.shields.io/badge/HABR-000000??style=for-the-badge&logo=HABR)](https://career.habr.com/da_shchedrova)
